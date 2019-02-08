@@ -1,4 +1,4 @@
 {
-  "token": "NTI4OTg3MTk4MTE3MjQ5MDQ0.DwqRog.-oiqQX7JOSJgZv1K2HhO1ywHTbY" ,
+  "token": "process.env.token" ,
   "prefix": "$"
 }
